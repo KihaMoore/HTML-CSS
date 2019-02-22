@@ -13,6 +13,7 @@ header{
 h1{
     color:#eee;
     font-size: 28px;
+    text-align: center;
 }
 
 h2{
@@ -31,9 +32,15 @@ h2{
 
 #contact-info{
     float:left;
+    color:black;
+    
+}
+
+a{
     color:red;
 }
 
 #bio-image{
     float:left;
 }
+
